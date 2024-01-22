@@ -1,0 +1,45 @@
+官方球员：
+https://www.ea.com/en/games/ea-sports-fc/ratings
+https://www.ea.com/ea-sports-fc/ultimate-team/web-app/
+https://myaccount.ea.com/cp-ui/security/index
+
+爬虫：
+https://spiderbox.cn/
+自产金币：
+https://futearn.com/
+
+
+#fifa-ultimate-team
+https://github.com/topics/fifa-ultimate-team
+FutWebApi V2：
+https://github.com/mynameisvasco/futwebapiv2?tab=readme-ov-file
+https://github.com/futapi
+https://pypi.org/project/fut/0.1.10/
+https://github.com/topics/fifa-bot
+收发工具：
+https://futsimpletrader.com/
+
+ip ：
+Zyte
+Bright data
+Oxylabs
+Smartproxy
+Scrape.do
+
+https://futearn.com/
+https://fifasnipebot.com/purchase
+https://www.futinator.com/
+https://snipesensei.com/
+
+autobuyer FC Enhancer：
+
+https://store.futnext.com/package/5837696
+https://github.com/ckalgos/FIFA-ClickAutoBuyer.git
+https://www.youtube.com/watch?v=kvHwh1o3kCY&t=0s
+
+买金币
+https://futcoinshop.net/sell
+https://zh.u7buyut.com/sell-coins-comfort-trade
+
+vpn
+https://egjplmujirj2tbj9wuzy.wgetcloud.org/
