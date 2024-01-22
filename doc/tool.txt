@@ -2,6 +2,10 @@
 https://www.ea.com/en/games/ea-sports-fc/ratings
 https://www.ea.com/ea-sports-fc/ultimate-team/web-app/
 https://myaccount.ea.com/cp-ui/security/index
+tampermonkey:
+https://www.tampermonkey.net/
+futbin:
+https://www.futbin.com/
 
 爬虫：
 https://spiderbox.cn/
@@ -43,3 +47,7 @@ https://zh.u7buyut.com/sell-coins-comfort-trade
 
 vpn
 https://egjplmujirj2tbj9wuzy.wgetcloud.org/
+
+tampermonkey:
+https://www.tampermonkey.net/?ext=dhdg&locale=zh
+
