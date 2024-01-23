@@ -1,0 +1,4 @@
+E:\TESTC
+--user-data-dir="E:\TESTC\Chrome1"
+
+./chrome.exe --proxy-server="http://27.154.6.58:21544'
