@@ -31,7 +31,7 @@ def futbinPrice_yingchaonv():
         tmp_tmp = tmp_tmp / len(i)
 
         if (tmp_tmp > 800):
-            print("%d is ok" % (tmp))
+            print("%d is ok %d" % (tmp,tmp_tmp))
         tmp = tmp + 1
 if __name__ == '__main__':
     futbinPrice_yingchaonv()
