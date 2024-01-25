@@ -25,7 +25,7 @@ Juventusnv=[47724,265859,256094,241844,227098,265861,266939]
 all=[BergamoCal,Bologna,Cagliari,Empoli,Fiorentina,Genoa,HellasVerona,Inter
      ,Juventus,Latium,Lecce,Milan,Monza,NapoliFC,RomaFC,Salernitana,Sassuolo,Torino,Udinese,Juventusnv]
 
-def futbinPrice_fajianan():
+def futbinPrice_yijia():
     tmp = 0
     for i in all:
         tmp_tmp = 0
@@ -40,4 +40,4 @@ def futbinPrice_fajianan():
             print("%d is ok %d" % (tmp,tmp_tmp))
         tmp = tmp + 1
 if __name__ == '__main__':
-    futbinPrice_fajianan()
+    futbinPrice_yijia()

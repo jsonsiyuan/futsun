@@ -15,7 +15,7 @@ Stadede=[265893,265901]
 
 all=[Bordeaux,DijonFCO,EnAvant,FCFleury91,HavreAC,LosCLille,Montpellier,OL,ParisFC,ParisSG,Stadede]
 
-def futbinPrice_fajianan():
+def futbinPrice_fajianv():
     tmp = 0
     for i in all:
         tmp_tmp = 0
@@ -30,4 +30,4 @@ def futbinPrice_fajianan():
             print("%d is ok %d" % (tmp,tmp_tmp))
         tmp = tmp + 1
 if __name__ == '__main__':
-    futbinPrice_fajianan()
+    futbinPrice_fajianv()
