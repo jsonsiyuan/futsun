@@ -24,15 +24,18 @@ def futbinPrice_xijianv():
     tmp = 0
     for i in all:
         tmp_tmp = 0
-        print("now is %d" % (tmp))
+
         for k in i:
             time.sleep(1)
-            tmp_tmp = tmp_tmp + futbinPrice(k)
+            price = futbinPrice(k)
+            if (price > 800):
+                print("one is %d %d %d" % (tmp, k, price))
+            tmp_tmp = tmp_tmp + price
 
         tmp_tmp = tmp_tmp / len(i)
 
         if (tmp_tmp > 800):
-            print("%d is ok %d" % (tmp,tmp_tmp))
+            print("all %d is ok %d" % (tmp, tmp_tmp))
         tmp = tmp + 1
 if __name__ == '__main__':
     futbinPrice_xijianv()

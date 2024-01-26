@@ -19,7 +19,7 @@ def futbinPrice(item_id, platform='ps'):
     if not rc:
         return 0
     rc = rc[str(item_id)]['prices']
-
+    rc['ps']['LCPrice'] = rc['ps']['LCPrice'].replace(',', '')
     ps = int(rc['ps']['LCPrice'])
     price = ps
 
